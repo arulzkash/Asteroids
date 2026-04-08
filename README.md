@@ -40,8 +40,9 @@ uv run main.py
 ```
 
 ### Controls
-- **Arrow Keys** (or similar): Rotate your ship
-- **W/Up Arrow**: Thrust forward
+- **A D**: Rotate your ship
+- **W**: Thrust forward
+- **S*: Thrust forward
 - **Spacebar**: Shoot
 - **ESC/Close Window**: Exit game
 
