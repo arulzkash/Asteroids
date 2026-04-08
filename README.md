@@ -42,7 +42,7 @@ uv run main.py
 ### Controls
 - **A D**: Rotate your ship
 - **W**: Thrust forward
-- **S*: Thrust forward
+- **S**: Thrust backward
 - **Spacebar**: Shoot
 - **ESC/Close Window**: Exit game
 
